@@ -1,0 +1,14 @@
+C:\Users\pisal\Desktop\dz\dz10\bin\Debug\net7.0\dz10.exe
+C:\Users\pisal\Desktop\dz\dz10\bin\Debug\net7.0\dz10.deps.json
+C:\Users\pisal\Desktop\dz\dz10\bin\Debug\net7.0\dz10.runtimeconfig.json
+C:\Users\pisal\Desktop\dz\dz10\bin\Debug\net7.0\dz10.dll
+C:\Users\pisal\Desktop\dz\dz10\bin\Debug\net7.0\dz10.pdb
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.AssemblyInfoInputs.cache
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.AssemblyInfo.cs
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.csproj.CoreCompileInputs.cache
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.dll
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\refint\dz10.dll
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.pdb
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\dz10.genruntimeconfig.cache
+C:\Users\pisal\Desktop\dz\dz10\obj\Debug\net7.0\ref\dz10.dll

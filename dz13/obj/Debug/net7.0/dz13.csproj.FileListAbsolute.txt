@@ -1,0 +1,14 @@
+C:\Users\pisal\Desktop\dz\dz13\bin\Debug\net7.0\dz13.exe
+C:\Users\pisal\Desktop\dz\dz13\bin\Debug\net7.0\dz13.deps.json
+C:\Users\pisal\Desktop\dz\dz13\bin\Debug\net7.0\dz13.runtimeconfig.json
+C:\Users\pisal\Desktop\dz\dz13\bin\Debug\net7.0\dz13.dll
+C:\Users\pisal\Desktop\dz\dz13\bin\Debug\net7.0\dz13.pdb
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.AssemblyInfoInputs.cache
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.AssemblyInfo.cs
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.csproj.CoreCompileInputs.cache
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.dll
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\refint\dz13.dll
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.pdb
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\dz13.genruntimeconfig.cache
+C:\Users\pisal\Desktop\dz\dz13\obj\Debug\net7.0\ref\dz13.dll
